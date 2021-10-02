@@ -1,0 +1,35 @@
+,gen.name2,name3,rate.0.5,tolerance,Decomposition rate
+1,Armillaria_gallica_FP102531_C6D,a.gal1.s,0.25,0.250263344,8.93
+2,Armillaria_gallica_EL8_A6F,a.gal10.n,0.35,0.071675284,4.54
+3,Armillaria_gallica_FP102534_A5A,a.gal2.s,0.21,0.435939736,5.81
+4,Armillaria_gallica_FP102535_A5D,a.gal3.s,0.25,0.59243841,6.95
+5,Armillaria_gallica_FP102542_A5B,a.gal5.s,0.25,-0.001559566,5.03
+6,Armillaria_gallica_HHB12551_C6C,a.gal6.n,0.49,0.785145889,2.04
+7,Armillaria_gallica_OC1_A6E,a.gal8.n,0.25,0.145945841,3.44
+8,Armillaria_gallica_SH1_A4A,a.gal9.n,0.76,-0.177229442,2
+9,Armillaria_sinapina_PR9,a.sin.n,0.77,-0.221718717,4.58
+10,Armillaria_tabescens_FP102622_A3C,a.tab.n,0.5,0.226557145,1.89
+11,Armillaria_tabescens_TJV93_261_A1E,a.tab.s,1.07,0.034482759,5.1
+12,Fomes_fomentarius_TJV93_7_A3E,f.fom.n,4.71,-0.284747399,21.87
+13,Hyphodontia_crustosa_HHB13392_B7B,h.crust.n,1.96,-0.569494797,9.21
+14,Hyphoderma_setigerum_HHB12156_B3H,h.seti.n,4.11,-0.753370804,7.61
+15,Hyphoderma_setigerum_FP150263_B2C,h.seti.s,4.7,-0.519096919,6.57
+16,Laetiporus_conifericola_HHB15411_C8B,l.conif.n,5.16,-0.276789839,7.07
+17,Lentinus_crinitus_PR2058_C1B,l.crin.s,6.38,-0.474004081,8.02
+18,Mycoacia_meridionalis_FP150352_C4E,m.meri.s,1.3,-0.569494797,4.6
+19,Merulius_tremullosus_FP102301_C3E,m.trem.n,10.62,-0.788429846,34.01
+20,Merulius_tremellosus_FP150849_C3F,m.trem.s,9.62,-0.825011045,21.15
+21,Phlebiopsis_flavidoalba_FP102185_B12D,p.flav.n,8.04,-0.491953222,17.95
+22,Phlebiopsis_flavidoalba_FP150451_A8G,p.flav.s,10.8,-0.628303738,11.38
+23,Phellinus_gilvus_HHB11977_C4H,p.gilv.n,4.04,-0.409287637,16.16
+24,Phellinus_hartigii_DMR94_44_A10E,p.har.n,1.54,-0.392401206,8.01
+25,Porodisculus_pendulus_HHB13576_B12C,p.pend.n,4.06,-0.451727956,3.02
+26,Phellinus_robiniae_FP135708_A10G,p.robin.n,2.3,-0.429689569,5.17
+27,Phellinus_robiniae_AZ15_A10H Banik/Mark,p.robin.s,2.14,-0.1555722,7.1
+28,Phlebia_acerina_MR4280_B9G,p.rufa.acer.n,8.75,-1,16.78
+29,Phlebia_acerina_DR60_A8A,p.rufa.acer.s,8.51,-0.948724846,20.98
+30,Pycnoporus_sanguineus_PR_SC_95_A11C,p.sang.s,4.97,-0.559554798,14.49
+31,Schizophyllum_commune_TJV93_5_A10A,s.comm.n,4.41,-0.38969144,4.65
+32,Schizophyllum_commune_PR1117,s.comm.s,2.57,-0.29301423,3.88
+33,Tyromyces_chioneus_HHB11933_B10F,t.chion.n,3.88,-0.805387266,13.75
+34,Xylobolus_subpileatus_FP102567_A11A,x.sub.s,0.77,0.506803038,5.17

@@ -70,4 +70,5 @@ if __name__ == '__main__':
     print(model.get_params())  # 模型定义时定义的参数，如果没有定义则返回默认值
     print(model.score(data, target))  # 给训练模型打分，注意用在LinearR中使用R^2 conefficient of determination打分
     # plot1(data,target,model)
-    plot2(data,model)
+
+    # plot2(data,model)
